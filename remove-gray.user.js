@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         remove-gray
-// @namespace    http://tampermonkey.net/
+// @namespace    http://jpsss.com/
 // @version      1.0
 // @description  remove the gray color from the world!
-// @author       You
+// @author       Hai Chang
 // @match        *://*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
