@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         remove-gray
 // @namespace    http://jpsss.com/
-// @version      1.0
+// @version      1.1
 // @description  remove the gray color from the world!
 // @author       Hai Chang
 // @match        *://*
